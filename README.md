@@ -1,2 +1,2 @@
 # aibasis
-2025-spring-pku-aibasis
+pku-2025-spring-aibasis
